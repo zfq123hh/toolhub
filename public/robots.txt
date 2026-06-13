@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /_next/
 
-Sitemap: https://toolhub.example.com/sitemap.xml
+Sitemap: https://toolscloud1.com/sitemap.xml

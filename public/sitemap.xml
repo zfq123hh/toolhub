@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://toolhub.example.com/</loc>
+    <loc>https://toolscloud1.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://toolhub.example.com/loan-calculator</loc>
+    <loc>https://toolscloud1.com/loan-calculator</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://toolhub.example.com/mortgage-calculator</loc>
+    <loc>https://toolscloud1.com/mortgage-calculator</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://toolhub.example.com/bmi-calculator</loc>
+    <loc>https://toolscloud1.com/bmi-calculator</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://toolhub.example.com/calorie-calculator</loc>
+    <loc>https://toolscloud1.com/calorie-calculator</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://toolhub.example.com/investment-calculator</loc>
+    <loc>https://toolscloud1.com/investment-calculator</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://toolhub.example.com/privacy</loc>
+    <loc>https://toolscloud1.com/privacy</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://toolhub.example.com/terms</loc>
+    <loc>https://toolscloud1.com/terms</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
