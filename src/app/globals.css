@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+:root {
+  --ad-bg: #f8f9fa;
+  --ad-border: #e0e0e0;
+}
+
+.dark {
+  --ad-bg: #1a1a2e;
+  --ad-border: #2d2d44;
+}
+
+/* AdSense container */
+.ad-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 90px;
+  background: var(--ad-bg);
+  border: 1px dashed var(--ad-border);
+  border-radius: 8px;
+  padding: 12px;
+  margin: 24px 0;
+  text-align: center;
+  color: #888;
+  font-size: 13px;
+}
+
+/* Print-friendly */
+@media print {
+  .ad-container, .no-print { display: none !important; }
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /_next/
+
+Sitemap: https://toolhub.example.com/sitemap.xml
