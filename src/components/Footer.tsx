@@ -12,9 +12,11 @@ export default function Footer() {
             <ul className="space-y-1">
               <li><a href="/loan-calculator" className="hover:text-blue-600 dark:hover:text-blue-400">Loan Calculator</a></li>
               <li><a href="/mortgage-calculator" className="hover:text-blue-600 dark:hover:text-blue-400">Mortgage Calculator</a></li>
+              <li><a href="/retirement-calculator" className="hover:text-blue-600 dark:hover:text-blue-400">Retirement Calculator</a></li>
+              <li><a href="/salary-calculator" className="hover:text-blue-600 dark:hover:text-blue-400">Salary Calculator</a></li>
               <li><a href="/bmi-calculator" className="hover:text-blue-600 dark:hover:text-blue-400">BMI Calculator</a></li>
-              <li><a href="/calorie-calculator" className="hover:text-blue-600 dark:hover:text-blue-400">Calorie Calculator</a></li>
-              <li><a href="/investment-calculator" className="hover:text-blue-600 dark:hover:text-blue-400">Investment Calculator</a></li>
+              <li><a href="/currency-converter" className="hover:text-blue-600 dark:hover:text-blue-400">Currency Converter</a></li>
+              <li><a href="/date-calculator" className="hover:text-blue-600 dark:hover:text-blue-400">Date Calculator</a></li>
             </ul>
           </div>
           <div>

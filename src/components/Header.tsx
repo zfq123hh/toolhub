@@ -23,11 +23,11 @@ export default function Header() {
           <Link href="/bmi-calculator" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
             BMI
           </Link>
-          <Link href="/calorie-calculator" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-            Calorie
+          <Link href="/currency-converter" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+            Currency
           </Link>
-          <Link href="/investment-calculator" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-            Investment
+          <Link href="/retirement-calculator" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+            Retirement
           </Link>
         </nav>
       </div>
