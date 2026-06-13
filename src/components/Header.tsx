@@ -17,17 +17,20 @@ export default function Header() {
           <Link href="/loan-calculator" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
             Loan
           </Link>
-          <Link href="/mortgage-calculator" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-            Mortgage
+          <Link href="/auto-loan-calculator" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+            Auto
+          </Link>
+          <Link href="/credit-card-payoff" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+            Credit
           </Link>
           <Link href="/bmi-calculator" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
             BMI
           </Link>
-          <Link href="/currency-converter" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-            Currency
+          <Link href="/body-fat-calculator" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+            Body Fat
           </Link>
-          <Link href="/retirement-calculator" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-            Retirement
+          <Link href="/age-calculator" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+            Age
           </Link>
         </nav>
       </div>

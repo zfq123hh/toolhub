@@ -12,9 +12,13 @@ export default function Footer() {
             <ul className="space-y-1">
               <li><a href="/loan-calculator" className="hover:text-blue-600 dark:hover:text-blue-400">Loan Calculator</a></li>
               <li><a href="/mortgage-calculator" className="hover:text-blue-600 dark:hover:text-blue-400">Mortgage Calculator</a></li>
+              <li><a href="/auto-loan-calculator" className="hover:text-blue-600 dark:hover:text-blue-400">Auto Loan Calculator</a></li>
+              <li><a href="/credit-card-payoff" className="hover:text-blue-600 dark:hover:text-blue-400">Credit Card Payoff</a></li>
               <li><a href="/retirement-calculator" className="hover:text-blue-600 dark:hover:text-blue-400">Retirement Calculator</a></li>
               <li><a href="/salary-calculator" className="hover:text-blue-600 dark:hover:text-blue-400">Salary Calculator</a></li>
               <li><a href="/bmi-calculator" className="hover:text-blue-600 dark:hover:text-blue-400">BMI Calculator</a></li>
+              <li><a href="/body-fat-calculator" className="hover:text-blue-600 dark:hover:text-blue-400">Body Fat Calculator</a></li>
+              <li><a href="/age-calculator" className="hover:text-blue-600 dark:hover:text-blue-400">Age Calculator</a></li>
               <li><a href="/currency-converter" className="hover:text-blue-600 dark:hover:text-blue-400">Currency Converter</a></li>
               <li><a href="/date-calculator" className="hover:text-blue-600 dark:hover:text-blue-400">Date Calculator</a></li>
             </ul>
